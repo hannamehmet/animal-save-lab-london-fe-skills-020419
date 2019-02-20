@@ -19,7 +19,10 @@ html {
 }
 
 @media (min-width: 406px) {
-  
-  pos
+  #monkey {
+  position: absolute;
+  top: 550px;
+  right: 120px;
+}
 }
 
