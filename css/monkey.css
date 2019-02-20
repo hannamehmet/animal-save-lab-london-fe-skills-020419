@@ -18,11 +18,13 @@ html {
 }
 }
 
-@media (max-width: 406px) {
+@media (min-width: 406px) {
   #monkey {
   position: absolute;
-  top: 550px;
-  right: 0;
+  top: -20px;
+  right: 750px;
 }
 }
+
+
 
