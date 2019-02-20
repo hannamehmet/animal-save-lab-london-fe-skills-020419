@@ -18,13 +18,6 @@ html {
 }
 }
 
-@media (min-width: 406px) {
-  #monkey {
-  position: absolute;
-  top: 550px;
-  left: 90px;
-}
-}
 
 
 
