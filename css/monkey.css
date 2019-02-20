@@ -21,8 +21,8 @@ html {
 @media (min-width: 406px) {
   #monkey {
   position: absolute;
-  top: -20px;
-  right: 750px;
+  top: 550px;
+  left: 100px;
 }
 }
 
